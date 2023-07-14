@@ -1,0 +1,13 @@
+C:\Users\alee\source\repos\ScanQR\ScanQR\ScanQR\obj\Debug\netstandard2.0\ScanQR.csproj.AssemblyReference.cache
+C:\Users\alee\source\repos\ScanQR\ScanQR\ScanQR\obj\Debug\netstandard2.0\ScanQR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alee\source\repos\ScanQR\ScanQR\ScanQR\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\alee\source\repos\ScanQR\ScanQR\ScanQR\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\alee\source\repos\ScanQR\ScanQR\ScanQR\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\alee\source\repos\ScanQR\ScanQR\ScanQR\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\alee\source\repos\ScanQR\ScanQR\ScanQR\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\alee\source\repos\ScanQR\ScanQR\ScanQR\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\alee\source\repos\ScanQR\ScanQR\ScanQR\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\alee\source\repos\ScanQR\ScanQR\ScanQR\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\alee\source\repos\ScanQR\ScanQR\ScanQR\obj\Debug\netstandard2.0\ScanQR.AssemblyInfoInputs.cache
+C:\Users\alee\source\repos\ScanQR\ScanQR\ScanQR\obj\Debug\netstandard2.0\ScanQR.AssemblyInfo.cs
+C:\Users\alee\source\repos\ScanQR\ScanQR\ScanQR\obj\Debug\netstandard2.0\ScanQR.csproj.CoreCompileInputs.cache
